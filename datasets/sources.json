@@ -1,0 +1,10 @@
+{
+    "titanic":              "https://www.kaggle.com/c/titanic",
+    "heart_failure":        "https://www.kaggle.com/andrewmvd/heart-failure-clinical-data",
+    "heart_disease_uci":    "https://www.kaggle.com/ronitf/heart-disease-uci",
+    "diabetes":             "https://www.kaggle.com/shrishtrips/diabetes",
+    "mri_and_alzheimers":   "https://www.kaggle.com/jboysen/mri-and-alzheimers",
+    "covid_19":             "https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset",
+    "pima_disbetes":        "https://www.kaggle.com/uciml/pima-indians-diabetes-database",
+    "kidney_stone":         "https://www.kaggle.com/utkarshxy/kidney-stone-data"
+}
